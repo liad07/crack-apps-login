@@ -7,7 +7,7 @@ function myFunction() {
     // document.getElementById("demo").innerHTML = x;
     document.getElementById("demo").innerHTML = "";
 
-    if (user==="admin"&&password==="CD37609BC7292CABBC6DC81BE62D2995"||user==="yonatanz"&&password==="yonatan4321"||user==="harel2008"&&password==="harel4321"||user==="tzuf"&&password==="ghonisins"||user==="elnakam"&&password==="evyatar4321"){
+    if (user==="admin"&&password==="CD37609BC7292CABBC6DC81BE62D2995"||user==="liat"&&password==="liadi1"||user==="yonatanz"&&password==="yonatan4321"||user==="harel2008"&&password==="harel4321"||user==="tzuf"&&password==="ghonisins"||user==="elnakam"&&password==="evyatar4321"){
         // document.writeln("hello "+user)
         // let text = "link";
         // let result = text.link( "iptv.html");
@@ -29,6 +29,9 @@ function myFunction() {
         }
         if (user==="elnakam"&&password==="evyatar4321"){
             document.getElementById("theImage2").style.visibility = "visible";
+
+        }
+        if (user==="liat"&&password==="liadi1"){
 
         }
     }
